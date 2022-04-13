@@ -1,6 +1,4 @@
 using System.Data;
-using System.Collections.Generic; 
-using System.IO; 
 
 namespace TSVParser
 {
